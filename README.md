@@ -4,7 +4,7 @@
 
 Resonaite embeds low-frequency amplitude modulation into music using a custom Cortical
 Integration Modulation (CIM) engine, generates tracks via AI music models, and adapts
-modulation parameters in real time from a consumer EEG headset in a closed loop.
+modulation parameters in real time from an EEG headset in a closed loop.
 
 
 ---
