@@ -1,10 +1,11 @@
 # Resonaite
 
-**An experimental adaptive-audio platform that responds to EEG brain signals in real time.**
+**An experimental adaptive-audio platform that responds to EEG brain signals in real time. (HackMIT China 2026 Team Project)**
 
 Resonaite embeds low-frequency amplitude modulation into music using a custom Cortical
 Integration Modulation (CIM) engine, generates tracks via AI music models, and adapts
-modulation parameters in real time from an EEG headset in a closed loop.
+modulation parameters in real time from an EEG headset in a closed loop. This project
+is based on our HackMIT China 2026 team project.
 
 
 ---
