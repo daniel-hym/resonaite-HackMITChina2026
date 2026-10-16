@@ -2,13 +2,12 @@
 
 **An experimental adaptive-audio platform that responds to EEG brain signals in real time. (HackMIT China 2026 Team Project)**
 
-(This repository is based on our HackMIT China 2026 team project, which won us the first place team award.
+(This repository is based on our HackMIT China 2026 team project, which won us the 1st place team award.
 Team members are Liqian Yan, Yanming Huang (me), Yintong Chen, Haoning Luo, and Enyi Yan.)
 
 Resonaite embeds low-frequency amplitude modulation into music using a custom Cortical
 Integration Modulation (CIM) engine, generates tracks via AI music models, and adapts
 modulation parameters in real time from an EEG headset in a closed loop. 
-
 
 ---
 
@@ -127,10 +126,4 @@ The Cortical Integration Modulation pipeline processes audio in 4 stages:
 
 Presets: `focus_beta_18hz`, `focus_adhd_pink`, `focus_adhd_brown`, `relax_alpha_10hz`, `sleep_delta_2hz`, `sleep_theta_6hz`
 
-## License
 
-Copyright (c) 2026 Liqian Yan. All rights reserved. See [LICENSE](LICENSE).
-
-This repository is published for demonstration and review; it is not open-source software.
-Third-party components — including the vendor EEG SDK under `OSX Developer Tools 3.3/`,
-model APIs, and npm/PyPI dependencies — remain subject to their own licenses.
